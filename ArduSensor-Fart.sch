@@ -1306,7 +1306,7 @@ Basic schematic elements and footprints for 0603, 1206, and PTH resistors.</desc
 <wire x1="63.5" y1="71.12" x2="53.34" y2="71.12" width="0.1524" layer="91"/>
 <junction x="58.42" y="55.88"/>
 </segment>
-</net> 
+</net>
 </nets>
 </sheet>
 </sheets>
